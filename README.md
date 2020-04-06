@@ -1,5 +1,5 @@
-# BlockchainTemplate
-A general blockchain that can be used as a template for future blockchains
+# Mitchcoin
+A general blockchain based crypto currency 
 
 ## Operation
 ### Getting Started
