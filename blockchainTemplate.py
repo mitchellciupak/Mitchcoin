@@ -1,4 +1,5 @@
 #Create a General Blockchain
+
 """
 Created on Mon Mar  9 21:11:15 2020
 @author: Mitchell Ciupak
@@ -7,9 +8,6 @@ Created on Mon Mar  9 21:11:15 2020
 #Installed
 # Flask v. 0.12.2
 # Postman v.7.20.0
-
-
-# Module 1 - Create a Blockchain
 
 # To be installed:
 # Flask==0.12.2: pip install Flask==0.12.2
