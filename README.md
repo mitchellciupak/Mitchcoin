@@ -1,5 +1,6 @@
 # Mitchcoin
-A general blockchain based crypto currency 
+A general blockchain based crypto currency
+
 
 ## Operation
 ### Getting Started
@@ -12,6 +13,9 @@ A general blockchain based crypto currency
 1. (Post) http://127.0.0.1:5000/add-transaction
 2. (Get) http://127.0.0.1:5000/mine_block 
 3. (Get) http://127.0.0.1:5000/replace_chain
+
+## ICO
+Read about Mitchcoin ICO on Ethereium at [ICO](./ICO.md)
 
 ## Resources
 [Postman](https://www.postman.com)
