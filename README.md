@@ -1,16 +1,18 @@
 # Mitchcoin
 A general blockchain based crypto currency
 
+
 ## Operation
 ### Getting Started
-1. Create 'transaction.json' and 'nodes.json'
+1. Add/Create 'nodes.json' (Current Example: 5000-5003)
 2. Open files in dir and run through python console
-3. Using Postman, create genisis block using /get-chain
-4. /get node
+3. Using Postman, create genisis block using http://127.0.0.1:5000/get-chain
+4. http://127.0.0.1:5000/get node
+
 ### Send and Receive Mitcoins
-1. (Post) /add-transaction
-2. (Get) /mine_block 
-3. (Get) /replace_chain
+1. (Post) http://127.0.0.1:5000/add-transaction
+2. (Get) http://127.0.0.1:5000/mine_block 
+3. (Get) http://127.0.0.1:5000/replace_chain
 
 ## ICO
 Read about Mitchcoin ICO on Ethereium at [ICO](./ICO.md)
