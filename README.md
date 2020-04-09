@@ -12,7 +12,7 @@ A general blockchain based crypto currency
 2. (Get) /mine_block 
 3. (Get) /replace_chain
 
-### ICO
+## ICO
 Read about Mitchcoin ICO on Ethereium at [ICO](./ICO.md)
 
 ## Resources
