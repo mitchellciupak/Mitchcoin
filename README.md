@@ -1,5 +1,5 @@
-# BlockchainTemplate
-A general blockchain that can be used as a template for future blockchains
+# Mitchcoin
+A general blockchain based crypto currency
 
 ## Operation
 ### Getting Started
@@ -11,6 +11,9 @@ A general blockchain that can be used as a template for future blockchains
 1. (Post) /add-transaction
 2. (Get) /mine_block 
 3. (Get) /replace_chain
+
+### ICO
+Read about Mitchcoin ICO on Ethereium at [ICO](./ICO.md)
 
 ## Resources
 [Postman](https://www.postman.com)
