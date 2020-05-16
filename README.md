@@ -1,5 +1,5 @@
 # Mitchcoin
-A general blockchain based crypto currency
+A blockchain based crypto currency
 
 
 ## Operation
