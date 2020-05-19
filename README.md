@@ -1,5 +1,5 @@
 # Mitchcoin
-A blockchain based crypto currency
+A blockchain based crypto currency developed in python and Ethereum 
 
 
 ## Operation
